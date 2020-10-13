@@ -1,0 +1,32 @@
+h1, h3, ul {
+    font-family: sans-serif;
+}
+
+#sitetitle {
+text-align: center;
+border: solid;
+}
+
+#navmenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    position: sticky;
+    top: 0;
+}
+
+.navmenuli {
+    display: inline;
+    color: blanchedalmond;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    border-right: 1px solid #bbb;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.paragraph {
+    width: 75%;
+}
+
